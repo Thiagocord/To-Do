@@ -23,5 +23,12 @@ O objetivo do projeto foi praticar manipulação do DOM, eventos, arrays e persi
 - JavaScript
 - LocalStorage
 
+--------------------------------------------------------------------------------
+
+## 🌐 Projeto Online
+Acesse aqui: https://thiagocord.github.io/To-Do/
+
+
+
 
 
