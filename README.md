@@ -20,7 +20,7 @@ O objetivo do projeto foi praticar manipulação do DOM, eventos, arrays e persi
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 - LocalStorage
 
 
